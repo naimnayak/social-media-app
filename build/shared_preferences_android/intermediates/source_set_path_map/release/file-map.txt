@@ -1,0 +1,14 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-datastore-preferences-1.0.0-0 /Users/naimnayak/.gradle/caches/transforms-3/1d6197332b932416c04b0d04fb387074/transformed/jetified-datastore-preferences-1.0.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-1 /Users/naimnayak/.gradle/caches/transforms-3/5006fbffb3e426155f47ce04c16ba49b/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-2 /Users/naimnayak/.gradle/caches/transforms-3/66921a6f5471646ab5a79a86556f91e8/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-datastore-1.0.0-3 /Users/naimnayak/.gradle/caches/transforms-3/cd31f32882031836874e334d178e0a62/transformed/jetified-datastore-1.0.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-4 /Users/naimnayak/.gradle/caches/transforms-3/f35876bb4a9e873b3d51a27fb0fac7bc/transformed/core-1.6.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-5 /Users/naimnayak/.gradle/caches/transforms-3/f88ade204835996b3c21647e7205a466/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-6 /Users/naimnayak/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.2/android/src/main/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-7 /Users/naimnayak/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.2/android/src/release/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-8 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/generated/res/pngs/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-9 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/generated/res/resValues/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-rs-10 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/generated/res/rs/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-11 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-12 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-13 /Users/naimnayak/ganpatti_bappa_app/build/shared_preferences_android/intermediates/merged_res/release

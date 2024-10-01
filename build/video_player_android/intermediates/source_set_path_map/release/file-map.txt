@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.3.1-0 /Users/naimnayak/.gradle/caches/transforms-3/49640db073985c6a41e440c1ade8e7b6/transformed/jetified-annotation-experimental-1.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-1 /Users/naimnayak/.gradle/caches/transforms-3/54fe54071f00eb429cab75fd8805c989/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-2 /Users/naimnayak/.gradle/caches/transforms-3/66921a6f5471646ab5a79a86556f91e8/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-media3-exoplayer-1.4.0-3 /Users/naimnayak/.gradle/caches/transforms-3/e0b8c31a267bd5d59359081069c21cf1/transformed/jetified-media3-exoplayer-1.4.0/res
+io.flutter.plugins.videoplayer.video_player_android-core-1.8.0-4 /Users/naimnayak/.gradle/caches/transforms-3/e324413279a282b52546da5a96e5b0e4/transformed/core-1.8.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-5 /Users/naimnayak/.gradle/caches/transforms-3/f88ade204835996b3c21647e7205a466/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-main-6 /Users/naimnayak/.pub-cache/hosted/pub.dev/video_player_android-2.7.1/android/src/main/res
+io.flutter.plugins.videoplayer.video_player_android-release-7 /Users/naimnayak/.pub-cache/hosted/pub.dev/video_player_android-2.7.1/android/src/release/res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/generated/res/pngs/release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/generated/res/resValues/release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/generated/res/rs/release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 /Users/naimnayak/ganpatti_bappa_app/build/video_player_android/intermediates/merged_res/release

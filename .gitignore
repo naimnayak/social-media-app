@@ -1,0 +1,11 @@
+# Firebase configuration files
+firebase.json
+
+# Android Firebase file
+android/app/google-services.json
+
+# iOS Firebase file
+ios/Runner/GoogleService-Info.plist
+
+# Dart Firebase options (for Flutter or Dart projects)
+lib/firebaseoptions.dart

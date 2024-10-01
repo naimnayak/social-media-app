@@ -1,0 +1,1 @@
+ /Users/naimnayak/ganpatti_bappa_app/.dart_tool/flutter_build/71f02c811462fa69904d1b8d91e5b549/native_assets.yaml: 

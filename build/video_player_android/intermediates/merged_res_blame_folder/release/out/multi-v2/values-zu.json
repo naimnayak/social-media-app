@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-10:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/naimnayak/.gradle/caches/transforms-3/e324413279a282b52546da5a96e5b0e4/transformed/core-1.8.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "710",
+                        "endColumns": "100",
+                        "endOffsets": "806"
+                    }
+                },
+                {
+                    "source": "/Users/naimnayak/.gradle/caches/transforms-3/e0b8c31a267bd5d59359081069c21cf1/transformed/jetified-media3-exoplayer-1.4.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,183,245,314,391,471,560,641",
+                        "endColumns": "68,58,61,68,76,79,88,80,68",
+                        "endOffsets": "119,178,240,309,386,466,555,636,705"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-merged_res-12:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/naimnayak/.gradle/caches/transforms-3/e324413279a282b52546da5a96e5b0e4/transformed/core-1.8.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "710",
+                        "endColumns": "100",
+                        "endOffsets": "806"
+                    }
+                },
+                {
+                    "source": "/Users/naimnayak/.gradle/caches/transforms-3/e0b8c31a267bd5d59359081069c21cf1/transformed/jetified-media3-exoplayer-1.4.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,183,245,314,391,471,560,641",
+                        "endColumns": "68,58,61,68,76,79,88,80,68",
+                        "endOffsets": "119,178,240,309,386,466,555,636,705"
+                    }
+                }
+            ]
+        }
+    ]
+}
